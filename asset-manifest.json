@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lab-1-sflynn44/static/css/main.d071321e.css",
+    "main.js": "/lab-1-sflynn44/static/js/main.b9a80f33.js",
+    "index.html": "/lab-1-sflynn44/index.html",
+    "main.d071321e.css.map": "/lab-1-sflynn44/static/css/main.d071321e.css.map",
+    "main.b9a80f33.js.map": "/lab-1-sflynn44/static/js/main.b9a80f33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d071321e.css",
+    "static/js/main.b9a80f33.js"
+  ]
+}
