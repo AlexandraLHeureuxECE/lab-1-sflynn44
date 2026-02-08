@@ -1,0 +1,11 @@
+{
+  "homepage": "https://sflynn44.github.io/lab-1-sflynn44",
+  "name": "my-app",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
